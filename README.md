@@ -109,6 +109,7 @@ TikTok:
 Country:
 Nepal
 
+ai-chat, chat-app, firebase, react, openai, messaging, realtime
 ---
 
 Thank You
@@ -122,3 +123,5 @@ Your support, feedback, and suggestions are always appreciated as XUF CHAT conti
 Together, let's build a better communication experience.
 
 © 2026 XUF CHAT. All Rights Reserved.
+
+📥 Download APK: https://your-link.com/XUF-CHAT.apk
